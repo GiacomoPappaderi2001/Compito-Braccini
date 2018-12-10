@@ -9,5 +9,9 @@ int main() {
 	}
 	//linea che viene modificata per creare un conflitto
 	cout << "voglio creare un conflitto" << endl;
+	
+	
+	
+	cout << "beeee" << endl; 
 	system("pause");
 }
