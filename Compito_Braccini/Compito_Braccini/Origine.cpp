@@ -8,7 +8,7 @@ int main() {
 		cout << contatore << endl;
 	}
 	//linea che viene modificata per creare un conflitto
-	cout << "voglio creare un conflitto" << endl;
+	cout << "voglio creare un conflitto per il compito" << endl;
 	
 	cout << "pecore" << endl;
 	system("pause");
